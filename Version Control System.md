@@ -19,16 +19,21 @@ git config --global user.email betsyjaise2015@gmail.com
 
 1.New Project
 -----------
-git init
+--->git init
+
  --.git folder is there(hidden)
  --dir/a to show hidden file
  --tree to show files in git ,..it's hidden
  --Add some file eg.index.html
  --move to the new folder
- --git status
+
+ --->git status
 
 Project in git Repository/Repo
 ------------------------------
 ==>create a version to git repository
-git add -- tempory cache
-git commit -m "Initial Commit"
+--->git add -- tempory cache
+--->git commit -m "Initial Commit"
+--->git log
+--->git log --all
+--->git checkout commitId
