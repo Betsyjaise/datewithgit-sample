@@ -33,7 +33,19 @@ Project in git Repository/Repo
 ------------------------------
 ==>create a version to git repository
 --->git add -- tempory cache
+---> git add --all
 --->git commit -m "Initial Commit"
 --->git log
 --->git log --all
 --->git checkout commitId
+
+Branching ( To create a new feature)
+---------
+
+--->git branch branchname
+--->git branch
+--->git checkout feature
+
+Merging ( Merge features to master)
+-------
+--->git merge feature
