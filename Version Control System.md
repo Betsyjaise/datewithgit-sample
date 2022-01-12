@@ -49,3 +49,15 @@ Branching ( To create a new feature)
 Merging ( Merge features to master)
 -------
 --->git merge feature
+
+--->git diff
+--->git stash
+--->git log --all --decorate --graph
+
+---> recursive merge
+---> Fast forward merge
+---> conflicts
+
+References
+----------------
+https://www.atlassian.com/git/tutorials/what-is-version-control
